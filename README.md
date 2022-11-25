@@ -1,5 +1,5 @@
-# Random-Quotes
-*An implementation of Random-Quotes-project clone with html css and javascript*
+# Random-Hex-Color
+*An implementation of Random-Hex-Color-project clone with html css and javascript*
 ## Prequisite
 - Your browser version should be up to date for better experience
 ## Getting Started
